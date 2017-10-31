@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ui_images">
+        <file>images/circle-things-53-512.png</file>
+    </qresource>
+</RCC>
