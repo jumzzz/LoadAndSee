@@ -1,2 +1,2 @@
 # LoadAndSee
-A plug-able OpenCV tool for image processing
+A plugable OpenCV tool for image processing
